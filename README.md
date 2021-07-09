@@ -16,7 +16,15 @@ Project aims to test the performance of various Machine and Deep Learning algori
 A final report detailing model performance and research procedure was completed, but it is not included in the repository.
 
 ## Table of Contents
+#### Files
+Number | Filename | Last Update
+------------ | ------------- | -------------
+1 | [ml_covid_research](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data/blob/master/ml_covid_research.ipynb) | June 8th, 2021
+2 | [ml_covid_research_w2](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data/blob/master/ml_covid_research_w2.ipynb) | June 15th, 2021
+3 | [ml_covid_research_w3](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data/blob/master/ml_covid_research_w3.ipynb) | June 21th, 2021
+4 | [ml_covid_research_final](https://github.com/iainmuir6/Machine-Learning-with-Coronavirus-Data/blob/master/ml_covid_research_final.ipynb) | June 30th, 2021
 
+#### Final Script Table of Contents
 
 ## Credits
 scikit-learn
